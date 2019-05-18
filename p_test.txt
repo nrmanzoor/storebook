@@ -1,1 +1,2 @@
-This is my first  personal quote
+This is my first  personal quote.
+Second line added in the personal quote.
