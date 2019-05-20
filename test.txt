@@ -6,3 +6,4 @@ This is a yello color branch.
 Line added in local master.
 2nd line added in local master.
 Line Added from Remote.
+Line Added from remote to have conflict.
