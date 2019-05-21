@@ -8,5 +8,7 @@ Line added in local master.
 Line Added from Remote.
 ine added from local to have conflict.
 Line Added from remote to have conflict.
+<<<<<<< Updated upstream
 2nd line added from remote.
+2nd line added locally to test stash.
 
