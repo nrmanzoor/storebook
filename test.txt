@@ -8,4 +8,5 @@ Line added in local master.
 Line Added from Remote.
 ine added from local to have conflict.
 Line Added from remote to have conflict.
+2nd line added from remote.
 
